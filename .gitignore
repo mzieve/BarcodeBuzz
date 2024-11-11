@@ -1,0 +1,30 @@
+# Ignore Node.js dependencies
+client/node_modules/
+
+# Ignore build output
+client/build/
+client/dist/
+
+# Ignore environment files
+client/.env
+
+# Logs
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Python environment files
+*.env
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
